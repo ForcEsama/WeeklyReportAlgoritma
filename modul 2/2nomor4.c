@@ -6,5 +6,5 @@ int main()
     int lebar = 5;
     int luas = (panjang * lebar);
 
-    printf("luas persegi panjang dengan panjang %d dan lebar %d adalah %d", panjang, lebar, luas);
+    printf("luas persegi panjang dengan panjang %d dan lebar %d adalah %d cm^2\n", panjang, lebar, luas);
 }

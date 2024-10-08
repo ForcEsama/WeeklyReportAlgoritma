@@ -7,6 +7,6 @@ int main()
     int luas;
 
     luas = (alas * tinggi) / 2;
-    printf("Luas segitiga dengan alas %d dan tinggi %d adalah %d\n", alas, tinggi, luas);
+    printf("Luas segitiga dengan alas %d dan tinggi %d adalah %d cm^2\n", alas, tinggi, luas);
     return 0;
 }
