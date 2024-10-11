@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 int main()
 {
     float nilai_kehadiran, nilai_tugas, nilai_uts, nilai_uas, nilai_akhir;
     char grade;
 
-    // Input nilai dari mahasiswa
     printf("Masukkan nilai kehadiran (0-100): ");
     scanf("%f", &nilai_kehadiran);
     printf("Masukkan nilai tugas (0-100): ");
