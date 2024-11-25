@@ -14,4 +14,29 @@ dengan Pak Randi Proska Sandra S.Pd, M.Sc
 
 ### Modul 1 : Pengantar Algoritma dan Pemrograman
 
- Modul ini adalah sebuah 
+Tujuan Pembelajaran dari Modul 1 ini adalah 
+1. Mampu memahami, menjelaskan, mengaplikasikan algoritma melalui pemrograman.
+2. Mampu memahami cara instalasi, fungsi dan penggunaaan IDE.
+3. Mampu membuat, mengkompilasi, menganalisis kesalahan dalam pemrograman menggunakan IDE.
+
+Pokok Materi
+1. Algoritma & Pemrograman
+2. Pengenalan Bahasa C
+3. IDE & Instalasi
+
+Terdapat tiga latihan pada modul ini, yaitu :
+1. Apa itu algoritma, pemrograman, program, programmer, dan IDE?
+2. Lakukan instalasi IDE
+3. Membuat program untuk mencetak **"Hello World!"**
+
+### Modul 2 : Pemrograman Dasar C
+
+Tujuan Pembelajaran dari Modul 2 ini adalah
+1. Mampu memahami struktur dasar penulisan bahasa pemrograman C.
+2. Mampu mengimplementasikan Basic Syntax C, Proses Input & Ouput dalam
+   pemrograman menggunakan IDE.
+
+Pokok Materi
+1. Struktur Dasar C
+2. Proses Input & Output
+
