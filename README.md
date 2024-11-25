@@ -11,3 +11,7 @@
 # Penjelasan Singkat
 Repository ini mengandung materi dari mata kuliah `Algoritma Pemrograman`
 dengan Pak Randi Proska Sandra S.Pd, M.Sc
+
+### Modul 1 : Pengantar Algoritma dan Pemrograman
+
+ Modul ini adalah sebuah 
