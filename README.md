@@ -62,3 +62,23 @@ Terdapat tiga latihan pada modul ini, yaitu :
 2. **Program Konversi Suhu**, program ini memintan pengguna untuk memasukkan input berupa suhu dalam bentuk celcius dan mengeluarkan output berupa    hasil konversi suhu tersebut dalam bentuk kelvin, fahrenheit dan reamur.
 3. **Program Luas Permukaan & Volume Bola**, program ini menghitung luas permukaan dan volume dari sebuah bola yang diketahui ukurannya, kemudian     mengeluarkan hasil itu kepada pengguna. Di samping itu nilai dari pi diimplementasikan menggunakan konstanta.
 
+### Modul 4 : Operator
+
+Tujuan Pembelajaran dari Modul 4 ini adalah
+1. Mampu menjelaskan dan mengimplementasikan Operator dalam pemrograman menggunakan IDE.
+
+Pokok Materi
+1. Operator Aritmatika
+2. Operator Penugasan
+3. Operator Pembanding
+4. Operator Logika
+5. Operator Bitwise
+6. Operator Kondisional
+
+Terdapat empat latihan pada modul ini, yaitu :
+1. **Program Konversi Detik**, program ini meminta input dari pengguna dalam bentuk detik untuk dikonversi sehingga mengeluarkan output dalam         bentuk jam, menit dan detik.
+2. **Program Kasir**, program ini meminta beberapa data, seperti nama pembeli, nama barang, harga satuan, dan jumlah barang yang dibeli, kemudian     mengeluarkan jumlah harga total yang dibeli.
+3. **Program Penghitung Nilai Akhir**, program ini meminta pengguna untuk memasukkan data nilai presensi, praktek, uts, dan uas, lalu mengeluarkan    nilai akhir dari pengguna menggunakan bobot tertentu.
+4. **Program Rental Film**, program ini meminta masukkan jumlah jam rental dari pengguna dalam bentuk angka, kemudian dengan ketentuan tarif          tertentu, program mengeluarkan jumlah uang yang harus dibayar jika pengguna meminjam untuk sekian lama.
+
+
