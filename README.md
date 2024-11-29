@@ -146,7 +146,7 @@ Terdapat empat latihan pada modul ini, yaitu:
 1. **Program Perkalian dengan Penjumlahan**, program ini melakukan operasi perkalian, tetapi menggunakan penjumlahan dalam bentuk fungsi rekursif untuk melakukannya.
 2. **Program Kalkulator Fungsi**, program ini melakukan operasi aritmetik seperti kalkulator, tetapi menggunakan fungsi untuk melakukan operasi tersebut.
 3. **Program Luas dan Keliling Lingkaran**, program ini menghitung luas dan keliling sebuah lingakaran yang ukurannya dimasukkan oleh pengguna, tetapi menggunakan dua fungsi berbeda luas dan keliling untuk melakukan perhitungannya.
-4. **Program Diskon dengan Fungsi, program ini meminta jumlah pembelian dari pengguna, kemudian menggunakan sebuah fungsi potong untuk menentukan berapa banyak diskon yang didapat oleh pengguna, informasi ini kemudian ditampilkan kembali bersama dengan harga akhir yang harus dibayar pengguna.
+4. **Program Diskon dengan Fungsi**, program ini meminta jumlah pembelian dari pengguna, kemudian menggunakan sebuah fungsi potong untuk menentukan berapa banyak diskon yang didapat oleh pengguna, informasi ini kemudian ditampilkan kembali bersama dengan harga akhir yang harus dibayar pengguna.
 
 ### Modul 9 : Pointer
 
