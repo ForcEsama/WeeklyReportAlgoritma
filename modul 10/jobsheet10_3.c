@@ -2,19 +2,19 @@
 #include <string.h>
 
 // Struktur untuk menyimpan data mahasiswa
-struct Mahasiswa
+typedef struct Mahasiswa
 {
     char npm[15];
     char nama[50];
     char tglLahir[15];
     char alamat[100];
     char hp[15];
-};
+} mahasiswa;
 
 int main()
 {
-    struct Mahasiswa mahasiswa[100]; // Array untuk menyimpan data mahasiswa
-    int count = 0;                   // Variabel untuk menghitung jumlah mahasiswa yang dimasukkan
+    mahasiswa mahasiswa[100]; // Array untuk menyimpan data mahasiswa
+    int count = 0;            // Variabel untuk menghitung jumlah mahasiswa yang dimasukkan
     char pilih;
 
     do
