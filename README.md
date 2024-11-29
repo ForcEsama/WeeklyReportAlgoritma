@@ -99,6 +99,22 @@ Terdapat empat latihan pada modul ini, yaitu :
 3. **Program Rumus Luas Permukaan Bangun**, program ini memberi pilihan bagi pengguna untuk menghitung luas dari permukaan bola, permukaan kubus, permukaan balok, permukaan dan tabung menggunakan percabangan `switch-case`, meminta angka-angka yang tepat untuk bangun tersebut dan mengeluarkan hasil yang tepat.
 4. **Program Nilai Akhir**, program ini untuk menentukan nilai akhir mahasiswa dengan menggunakan nilai kehadiran, tugas, UTS, dan UAS yang dimasukkan pengguna. Program menghitung nilai akhir, menentukan _grade_, dan mengeluarkan keduanya bersama dengan pesan berbeda berdasarkan nilai yang dihitung.
 
+### Modul 6 : _Flow Control : Looping_
+
+Tujuan Pembelajaran dari Modul 6 ini adalah
+1. Mampu menjelaskan dan mengimplementasikan Looping : Perulangan dalam pemrograman menggunakan IDE.
+
+Pokok Materi
+1. Perulangan For
+2. Perulangan While
+3. Perulangan Do While
+4. Perulangan Bersarang (Nested Loop)
+
+Terdapat empat latihan pada modul ini, yaitu :
+1. **Program Deret Bilangan**, program ini menggunakan perulangan untuk menghasilkan deret bilangan genap dan ganjil dari 0-50.
+2. **Program Segitiga Sederhana**, program ini menggunakan perulangan bersarang untuk mengeluarkan output berupa motif/pattern seigitga siku-siku menggunakan karakter asteriks (*).'
+3. **Program Segitiga Angka, program ini menggunakan perulangan bersarang untuk menampilkan motif segitiga siku-siku menggunakan angka hasil kali dari kedua indeks perulangan.
+
 
 
 
