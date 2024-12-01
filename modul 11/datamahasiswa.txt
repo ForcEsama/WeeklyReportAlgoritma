@@ -1,0 +1,12 @@
+Data Mahasiswa ke-1 :
+Nama                 : Dirgantara Anantathur
+NIM                  : 24343032
+Jurusan              : Elektronika
+Program Studi        : Informatika
+-----------------------
+Data Mahasiswa ke-2 :
+Nama                 : Ahmad Naufal Azzuhdi
+NIM                  : 24343029
+Jurusan              : Elektronika
+Program Studi        : Informatika
+-----------------------
