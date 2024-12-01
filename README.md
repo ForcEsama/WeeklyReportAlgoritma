@@ -142,7 +142,7 @@ Pokok Materi
 5. Pass by Value
 6. Pass by Reference
 
-Terdapat empat latihan pada modul ini, yaitu:
+Terdapat empat latihan pada modul ini, yaitu :
 1. **Program Perkalian dengan Penjumlahan**, program ini melakukan operasi perkalian, tetapi menggunakan penjumlahan dalam bentuk fungsi rekursif untuk melakukannya.
 2. **Program Kalkulator Fungsi**, program ini melakukan operasi aritmetik seperti kalkulator, tetapi menggunakan fungsi untuk melakukan operasi tersebut.
 3. **Program Luas dan Keliling Lingkaran**, program ini menghitung luas dan keliling sebuah lingakaran yang ukurannya dimasukkan oleh pengguna, tetapi menggunakan dua fungsi berbeda luas dan keliling untuk melakukan perhitungannya.
@@ -150,9 +150,49 @@ Terdapat empat latihan pada modul ini, yaitu:
 
 ### Modul 9 : Pointer
 
+Tujuan Pembelajaran dari Modul 9 ini adalah
+1. Mampu menjelaskan dan mengimplementasikan Pointer dalam pemrograman menggunakan IDE.
+
+Pokok Materi
+1. Pengertian Pointer
+2. Penggunaan Pointer
+3. Pointer untuk pass by reference
+4. Pointer untuk mengakses array
+
+Terdapat tiga latihan pada modul ini, yaitu :
+1. **Program Mencetak Kata dari Belakang**, program ini menggunakan pointer untuk mengakses sebuah kata dari posisi akhir dan mencetak sejumlah baris dimana tiap baris dimulai satu karakter lebih ke depan.
+2. **Program Mencetak Kalimat Terbalik**, program ini mengambil masukan kalimat dari pengguna dan menggunakan pointer mencetak kembali kata tersebut dari akhir sampai awal.
+3. **Program Pengujian Sifat Pointer**, program ini memiliki dua kasus yang memiliki beberapa pertanyaan mengenai nilai-nilai dari variabel yang hasilnya dicetak ke layar.
 
 ### Modul 10 : Enumerasi & Structure
+
+Tujuan Pembelajaran dari Modul 10 ini adalah
+1. Mampu menjelaskan dan mengimplementasikan Enum dan Structure dalam pemrograman menggunakan IDE.
+
+Pokok Materi 
+1. Pengertian Enum
+2. Pengertian Structure
+3. Penggunaan Enum
+4. Penggunaan Struct
+5. Penggunaan typedef pada Struct
+6. Struct Bersarang
+7. Passing Struct ke dalam fungsi
+
+Terdapat tiga latihan pada modul ini, yaitu :
+1. **Program Permainan Tebakan**, pada awal proses, program memilih sebuah angka secara acak dari 1-20, lalu menggunakan perulangan meminta pengguna untuk memasukkan sebuah tebakan, jika tebakan pengguna lebih tinggi atau lebih rendah daripada angka program, maka pesan tentang itu dikeluarkan dan program meminta pengguna untuk memasukkan tebakan lagi. Apabila tebakan pengguna sama dengan angka program, perulangan berhenti dan pengguna diberi selamat, lalu program menanyakan apabila pengguna ingin melakukan sebuah permainan lagi. Apabila iya, program memilih angka baru dan mengulangi proses, jika tidak, program keluar.
+2. **Program Penentu Zodiak**, program ini menggunakan struktur untuk menyimpan data tiap satu dari 12 zodiak, hal seperti batas awal, batas akhir, serta nama dari zodiak tersebut. Program ini kemudian meminta tanggal lahir dari pengguna dan menggunakan perulangan, mencari data zodiak yang sesuai berdasarkan data pengguna, setelah ditemukan program ini kemudian memberi tahu apa zodiak dari pengguna dan mengeluarkannya di layar.
+3. **Program Penyimpan Data Mahasiswa**, Untuk membantu dalam menyimpan data, program ini menggunakan struktur untuk menyimpan data mahasiswa. Pengguna diminta untuk mengisi data dari sebuah mahasiswa, lalu ditanyakan apabila ingin memasukkan data lagi, jika pengguna memilih iya, maka program meminta lagi sebuah data mahasiswa, jika pengguna memilih tidak, program mengeluarkan kembali semua data mahasiswa yang telah dimasukkan pengguna secara berturut-turut.
+
 ### Modul 11 : File Handling in C
 
+Tujuan Pembelajaran dari Modul 11 ini adalah
+1. Mampu menjelaskan dan mengimplementasikan Write & Read dalam File dalam pemrograman menggunakan IDE.
+
+Materi Pokok
+1. Membaca File dengan C
+2. Menulis dalam File dengan C
+
+Terdapat satu latihan pada modul ini, yaitu :
+1. **Program Biodata Mahasiswa**, menggunakan perulangan, program ini meminta pengguna untuk memasukkan biodata mahasiswa, kemudian menulis data tersebut ke dalam sebuah file dengan nama `datamahasiswa.txt`, setelah tiap perulangan program juga memastikan apakah pengguna masih ingin memasukkan data baru lagi atau tidak, jika tidak program menutup file dan keluar.
 
 
