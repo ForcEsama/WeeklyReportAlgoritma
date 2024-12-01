@@ -190,7 +190,7 @@ Terdapat tiga latihan pada modul ini, yaitu :
 Tujuan Pembelajaran dari Modul 11 ini adalah
 1. Mampu menjelaskan dan mengimplementasikan Write & Read dalam File dalam pemrograman menggunakan IDE.
 
-Materi Pokok
+Pokok Materi
 1. Membaca File dengan C
 2. Menulis dalam File dengan C
 
