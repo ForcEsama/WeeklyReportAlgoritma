@@ -1,3 +1,5 @@
+![Banner](31815b2f755e58836c603c02b3c7baad.gif)
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Algoritma+Pemrograman" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=50&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=2000&lines=Randi+Proska+Sandra+S.Pd,+M.Sc" alt="Typing SVG" /></a>
 
@@ -195,4 +197,4 @@ Materi Pokok
 Terdapat satu latihan pada modul ini, yaitu :
 1. **Program Biodata Mahasiswa**, menggunakan perulangan, program ini meminta pengguna untuk memasukkan biodata mahasiswa, kemudian menulis data tersebut ke dalam sebuah file dengan nama `datamahasiswa.txt`, setelah tiap perulangan program juga memastikan apakah pengguna masih ingin memasukkan data baru lagi atau tidak, jika tidak program menutup file dan keluar.
 
-![Banner](31815b2f755e58836c603c02b3c7baad.gif)
+
