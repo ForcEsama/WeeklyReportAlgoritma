@@ -195,4 +195,4 @@ Materi Pokok
 Terdapat satu latihan pada modul ini, yaitu :
 1. **Program Biodata Mahasiswa**, menggunakan perulangan, program ini meminta pengguna untuk memasukkan biodata mahasiswa, kemudian menulis data tersebut ke dalam sebuah file dengan nama `datamahasiswa.txt`, setelah tiap perulangan program juga memastikan apakah pengguna masih ingin memasukkan data baru lagi atau tidak, jika tidak program menutup file dan keluar.
 
-
+![Banner](31815b2f755e58836c603c02b3c7baad.gif)
