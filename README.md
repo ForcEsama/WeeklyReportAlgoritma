@@ -112,9 +112,47 @@ Pokok Materi
 
 Terdapat empat latihan pada modul ini, yaitu :
 1. **Program Deret Bilangan**, program ini menggunakan perulangan untuk menghasilkan deret bilangan genap dan ganjil dari 0-50.
-2. **Program Segitiga Sederhana**, program ini menggunakan perulangan bersarang untuk mengeluarkan output berupa motif/pattern seigitga siku-siku menggunakan karakter asteriks (*).'
+2. **Program Segitiga Sederhana**, program ini menggunakan perulangan bersarang untuk mengeluarkan output berupa motif/pattern seigitga siku-siku menggunakan karakter asteriks (*).
 3. **Program Segitiga Angka, program ini menggunakan perulangan bersarang untuk menampilkan motif segitiga siku-siku menggunakan angka hasil kali dari kedua indeks perulangan.
 
+### Modul 7 : Array
+
+Tujuan Pembelajaran dari Modul 7 ini adalah
+1. Mampu menjelaskan dan mengimplementasikan Data Structure: Array dalam pemrograman menggunakan IDE.
+
+Pokok Materi
+1. Pengertian Array
+2. Penggunaan Array
+
+Terdapat tiga latihan pada modul ini, yaitu :
+1. **Program Rata-rata Nilai**, program ini meminta pengguna untuk memasukkan input berupa 20 data nilai dari mahasiswa, lalu menyimpan tiap nilai tersebut ke dalam array dan mengeluarkan outpu berupa rata-rata dari nilai-nilai tersebut.
+2. **Program Nama Mahasiswa**, program ini meminta pengguna untuk memasukkan input berapa banyak nama mahasiswa yang ingin dimasukkan, lalu meminta input berupa nama sebanyak yang dimasukkan pengguna dan memasukkannya ke dalam sebuah array. Setelah semua nama dimasukkan oleh pengguna, program mengeluarkannya kembali dari array tadi.
+3. **Program Login**, program ini meminta pengguna untuk memasukkan sebuah username dan password, kemudian melakukan perbandingan string terhadap keduanya, apabila username salah, program menyatakan pengguna tidak terdaftar dan berhenti, lalu apabila username benar dan password salah, program menyatakan password salah, terakhir, apabila keduanya benar, program menyatakan login berhasil.
+
+### Modul 8 : Fungsi & Prosedur
+
+Tujuan Pembelajaran dari Modul 8 ini adalah
+1. Mampu menjelaskan dan mengimplementasikan Function & Procedure dalam pemrograman menggunakan IDE.
+
+Pokok Materi
+1. Pengertian Fungsi
+2. Penggunaan Fungsi
+3. Fungsi Rekursif
+4. Variabel Lokal & Global
+5. Pass by Value
+6. Pass by Reference
+
+Terdapat empat latihan pada modul ini, yaitu:
+1. **Program Perkalian dengan Penjumlahan**, program ini melakukan operasi perkalian, tetapi menggunakan penjumlahan dalam bentuk fungsi rekursif untuk melakukannya.
+2. **Program Kalkulator Fungsi**, program ini melakukan operasi aritmetik seperti kalkulator, tetapi menggunakan fungsi untuk melakukan operasi tersebut.
+3. **Program Luas dan Keliling Lingkaran**, program ini menghitung luas dan keliling sebuah lingakaran yang ukurannya dimasukkan oleh pengguna, tetapi menggunakan dua fungsi berbeda luas dan keliling untuk melakukan perhitungannya.
+4. **Program Diskon dengan Fungsi**, program ini meminta jumlah pembelian dari pengguna, kemudian menggunakan sebuah fungsi potong untuk menentukan berapa banyak diskon yang didapat oleh pengguna, informasi ini kemudian ditampilkan kembali bersama dengan harga akhir yang harus dibayar pengguna.
+
+### Modul 9 : Pointer
+
+
+### Modul 10 : Enumerasi & Structure
+### Modul 11 : File Handling in C
 
 
 
